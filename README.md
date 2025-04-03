@@ -8,7 +8,7 @@ This repository showcases a **simple yet powerful** web-based calculator built w
 
 ## 🌐 Live Demo  
 Check out the live version here:  
-[**vikasinim.github.io/mathLogicPractice/**](https://vikasinim.github.io/mathLogicPractice/)  
+[**vikasinim.github.io/mathLogicPractice/**](https://vikasinim.github.io/MathLogicCalculator/) 
 
 ---
 
